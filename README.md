@@ -1,6 +1,6 @@
 # XGBoost Fraud Detection
 
-This folder contains a Jupyter Notebook demonstrating an XGBoost-based fraud detection pipeline.
+This folder contains a Jupyter Notebook demonstrating an XGBoost-based fraud detection pipeline. The notebook demonstrates how to detect fraudulent credit card transactions using the XGBoost classifier. It includes data preprocessing, handling class imbalance, model training, evaluation, and interpretation.
 
 ## Contents
 - `XGBoost_Fraud_Detection_For_GitHub.ipynb` — cleaned notebook with explanatory markdown cells added before each code cell.
